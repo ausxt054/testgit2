@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD04V>
-    <ROLLNAME>ZDE_EXT_BLOCK</ROLLNAME>
+    <ROLLNAME>/GNC/ZDE_EXT_BLOCK</ROLLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DOMNAME>ZDO_EXT_BLOCK</DOMNAME>
+    <DOMNAME>/GNC/ZDO_EXT_BLOCK</DOMNAME>
     <LOGFLAG>X</LOGFLAG>
     <HEADLEN>55</HEADLEN>
     <SCRLEN1>10</SCRLEN1>
